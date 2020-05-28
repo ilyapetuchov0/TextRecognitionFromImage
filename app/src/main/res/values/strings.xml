@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Text Recognition</string>
+    <string name="text_result">Результат</string>
+    <string name="text_image_preview">Просмотр изображения</string>
+    <string name="add_image">Click + to add image</string>
+    <string name="toast_seettings">Настройки</string>
+    <string name="text_select_image">Выбрать изображение</string>
+    <string name="text_new_picture">Новая картинка</string>
+    <string name="text_image_to_text">Из картинки в текст</string>
+    <string name="text_capture_image">Сфотографировать</string>
+    <string name="text_detect">Распознать</string>
+</resources>
